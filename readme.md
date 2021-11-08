@@ -15,7 +15,6 @@ This is the tutorial from Gwendolyn Faraday.
 | 30 second | Asia/Ho_Chi_Minh |
 | 2 hour | Europe/Kiev |
 | 5 day | America/New_York |  
-
     + Attach the login token you got in step 1 and send `POST` a request to [/api/user-expire-setting](http://localhost:1437/api/user-expire-setting). You'll get a success message in the response.  
     + Notice: interval type is available in second, hour, day and must be singular. For example:  
 | OK | NG |
@@ -37,3 +36,6 @@ When the current timestamp reaches the log-in expiration time that you set in st
 + Try to send a `GET` request to route `/api/comments` again, you will get the message `Invalid JWT token`. It means the user's login session is expired.
 
 That's all!
+| sdfdf | sdfsdf |
+| ----- | ------ |
+| sdf | sdfdf |
