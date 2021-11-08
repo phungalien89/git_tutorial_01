@@ -39,10 +39,3 @@ When the current timestamp reaches the log-in expiration time that you set in st
 + Try to send a `GET` request to route `/api/comments` again, you will get the message `Invalid JWT token`. It means the user's login session is expired.
 
 That's all!
-| sdfdf | sdfsdf |
-| ----- | ------ |
-| sdf | sdfdf |
-| sdfdf | sdfdf |
-| sdfsdf | sdfsdf |
-+ sdfsdf
-    + sdfsdfsdf
