@@ -16,10 +16,9 @@ This is the tutorial from Gwendolyn Faraday.
 | 30 second | Asia/Ho_Chi_Minh |
 | 2 hour | Europe/Kiev |
 | 5 day | America/New_York |
-| 3600 second | asdf |
     
-    Attach the login token you got in step 1 and send `POST` a request to [/api/user-expire-setting](http://localhost:1437/api/user-expire-setting). You'll get a success message in the response.  
-    Notice: interval type is available in second, hour, day and must be singular. For example:
+    + Attach the login token you got in step 1 and send `POST` a request to [/api/user-expire-setting](http://localhost:1437/api/user-expire-setting). You'll get a success message in the response.  
+    + Notice: interval type is available in second, hour, day and must be singular. For example:
     
 | OK | NG |
 | ---- | --- |
@@ -43,4 +42,5 @@ That's all!
 | sdfdf | sdfsdf |
 | ----- | ------ |
 | sdf | sdfdf |
-+ sdfsdfsdf
++ sdfsdf
+    + sdfsdfsdf
