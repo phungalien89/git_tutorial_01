@@ -17,7 +17,7 @@ This is the tutorial from Gwendolyn Faraday.
 | 2 hour | Europe/Kiev |
 | 5 day | America/New_York |
     
-+ sdfsdf
+    + sdfsdf
     
 | OK | NG |
 | ---- | --- |
