@@ -10,7 +10,7 @@ This is the tutorial from Gwendolyn Faraday.
 **_Step 2:_**
 + **Set the auto logout parameters**:
     + add params `(interval, timezone)` to the route `/api/user-expire-setting`. For example:
-    + 
+    
 | Interval | Timezone |
 | -------- | -------- |
 | 30 second | Asia/Ho_Chi_Minh |
@@ -41,5 +41,4 @@ That's all!
 | sdfdf | sdfsdf |
 | ----- | ------ |
 | sdf | sdfdf |
-
-sdfsdfsdf
++ sdfsdfsdf
