@@ -51,5 +51,5 @@ That's all!
 
 3. Using a specific API to get lists of all countries, states and cities on Earth, such as
 
-   ![](https://drive.google.com/uc?id=1cKcGN04rH2fFX8QrzIHXfY_fOCg_LtCl)
+   ![asd](https://drive.google.com/uc?id=1cKcGN04rH2fFX8QrzIHXfY_fOCg_LtCl)
 
