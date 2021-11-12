@@ -41,3 +41,15 @@ When the current timestamp reaches the log-in expiration time that you set in st
 That's all!
 ==sdfdf==
 
+# `Adding secure space`  API Test Guide using Postman
+
+### Prerequisites
+
+1. `Migrate` the database.
+
+2. Using a specific API to get the IP address of the browser, such as `https://api.ipify.org?format=json`.
+
+3. Using a specific API to get lists of all countries, states and cities on Earth, such as
+
+   ![](https://drive.google.com/uc?id=1cKcGN04rH2fFX8QrzIHXfY_fOCg_LtCl)
+
